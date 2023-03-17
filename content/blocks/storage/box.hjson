@@ -9,6 +9,7 @@
   "coreMerge": true,
   "category": "effect",
   "research": "core-shard",
+  "canOverdrive": false,
   "requirements": [
     "copper/50",
     "lead/10"
