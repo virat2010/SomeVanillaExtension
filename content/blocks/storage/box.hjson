@@ -10,7 +10,7 @@
   ],
   "buildVisibility": "shown",
   "category": "effect",
-  "type": "Vault","
+  "type": "Vault",
   "hasItems": true,
   "solid": true,
   "destructible": true,
