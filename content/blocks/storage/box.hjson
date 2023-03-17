@@ -10,5 +10,11 @@
   ],
   "buildVisibility": "shown",
   "category": "effect",
-  "research": "core-shard"
+  "hasItems": true,
+  "solid": true,
+  "destructible": true,
+  "update": false,
+  "research": "core-shard",
+  "unitType": "mega",
+  "unitCapModifier": 12
 }
